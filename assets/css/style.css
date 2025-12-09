@@ -1039,7 +1039,7 @@ Team
 ----------------------------------------------- */
 
 .single-page-title {
-    background            : url(../img/global/titelBG.jpg) no-repeat bottom;
+    background            : url(../../img/global/titelBG.jpg) no-repeat bottom;
     background-size       : cover;
     width                 : 100%;
     background-attachment : fixed;
