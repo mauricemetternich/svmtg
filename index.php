@@ -67,14 +67,14 @@ print<<<END
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- off-canvas -->
-    <link href="css/mobile-menu.css" rel="stylesheet">
+    <link href="assets/css/mobile-menu.css" rel="stylesheet">
     <!-- font-awesome -->
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
           integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <!-- Style CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -176,14 +176,14 @@ print<<<END
 
 
 <!-- Script -->
-<script src="js/jquery-2.1.4.min.js"></script>
+<script src="assets/js/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
         integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
         crossorigin="anonymous"></script>
-<script src="js/smoothscroll.js"></script>
-<script src="js/mobile-menu.js"></script>
-<script src="js/flexSlider/jquery.flexslider-min.js"></script>
-<script src="js/scripts.js"></script>
+<script src="assets/js/smoothscroll.js"></script>
+<script src="assets/js/mobile-menu.js"></script>
+<script src="assets/js/flexSlider/jquery.flexslider-min.js"></script>
+<script src="assets/js/scripts.js"></script>
 <div/>
 		<a style="font-size:0; height:0; width:0; opacity:0; position:absolute" target="_blank" href="http://www.uicookies.com">HTML Templates by uiCookies</a>        
 	</div>
